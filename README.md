@@ -1,2 +1,2 @@
-# R-n
+#ren
 Permainan dimulai!!
